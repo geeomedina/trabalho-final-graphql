@@ -1,0 +1,17 @@
+{
+  "name": "trabalho-final-graphql",
+  "version": "1.0.0",
+  "description": "Projeto de CRUD com GraphQL, utilizando NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.19.0",
+    "express": "^4.17.1",
+    "graphql": "^15.4.0"
+  }
+}
